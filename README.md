@@ -1,7 +1,7 @@
 # Hi, I'm Nik
 
 Incoming CS student at Washington University in St. Louis (Fall 2026), building 
-toward a career in AI/ML — long-term aiming for frontier labs like Google 
+toward a career in AI/ML, long-term aiming for frontier labs like Google 
 DeepMind, or founding something in the space myself.
 
 ## What I'm building
@@ -25,7 +25,7 @@ happening under the hood rather than just calling library functions:
 ## Outside of code
 
 Former competitive distance swimmer (500/1000/1650 free), recruited to swim 
-D3 at WashU. Interested in self-optimization broadly — training, nutrition, 
+D3 at WashU. Interested in self-optimization broadly: training, nutrition, 
 and how to build systems (for models and for myself) that actually improve 
 over time. Also into poker, fishing, gaming, carpentry, and hiking.
 
